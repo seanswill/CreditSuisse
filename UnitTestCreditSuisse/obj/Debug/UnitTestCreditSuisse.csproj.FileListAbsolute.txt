@@ -1,0 +1,8 @@
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\bin\Debug\UnitTestCreditSuisse.dll
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\bin\Debug\UnitTestCreditSuisse.pdb
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\bin\Debug\CreditSuisse.exe
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\bin\Debug\CreditSuisse.pdb
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\obj\Debug\UnitTestCreditSuisse.csprojResolveAssemblyReference.cache
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\obj\Debug\UnitTestCreditSuisse.dll
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\UnitTestCreditSuisse\obj\Debug\UnitTestCreditSuisse.pdb

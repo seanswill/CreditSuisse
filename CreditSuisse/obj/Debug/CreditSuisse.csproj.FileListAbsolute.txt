@@ -1,0 +1,6 @@
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\CreditSuisse\bin\Debug\CreditSuisse.exe.config
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\CreditSuisse\bin\Debug\CreditSuisse.exe
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\CreditSuisse\bin\Debug\CreditSuisse.pdb
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\CreditSuisse\obj\Debug\CreditSuisse.csprojResolveAssemblyReference.cache
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\CreditSuisse\obj\Debug\CreditSuisse.exe
+c:\users\seans_000\documents\visual studio 2015\Projects\CreditSuisse\CreditSuisse\obj\Debug\CreditSuisse.pdb
